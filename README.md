@@ -1,2 +1,3 @@
 # animal-trading-card
-Udacity Project 2. Animal Card.
+Project 2. Animal Card.
+Udacity Front-End Web Developer Nanodegree
