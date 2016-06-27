@@ -1,0 +1,47 @@
+.card {
+  width: 310px;
+  border: 1px solid #c0c0c0;
+  padding: 10px;
+  box-shadow: 10px 10px 20px #c0c0c0;
+}
+
+.name {
+  margin-left: 5px;
+  margin-right: 5px;
+  margin-top: 8.720px;
+}
+
+.image {
+  margin-left: 5px;
+  margin-right: 5px;
+}
+
+.information {
+  width: 290px;
+  border: 1px solid #c0c0c0;
+;
+  padding: 4px;
+  margin-left: 5px;
+  margin-top: 10px;
+}
+
+.interesting-fact {
+  font-style: italic;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+.list {
+  list-style: none;
+  list-style-position: outside;
+  padding-left: 5px;
+}
+
+.label {
+  font-weight: bold;
+}
+
+.description {
+  padding-left: 5px;
+  padding-right: 5px;
+}
